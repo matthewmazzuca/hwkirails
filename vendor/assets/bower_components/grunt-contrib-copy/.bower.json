@@ -1,0 +1,14 @@
+{
+  "name": "grunt-contrib-copy",
+  "homepage": "https://github.com/gruntjs/grunt-contrib-copy",
+  "version": "0.8.0",
+  "_release": "0.8.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.8.0",
+    "commit": "9e8107b760e6384a27d2db70de19d5de2384c7dd"
+  },
+  "_source": "git://github.com/gruntjs/grunt-contrib-copy.git",
+  "_target": "*",
+  "_originalSource": "grunt-contrib-copy"
+}
